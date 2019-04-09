@@ -9,7 +9,7 @@ jwplayer("boamganteng").setup({
     image: "/uploads/example.jpg",
     plugins: {
         "/plugins/danmaku.js": {
-            /* blank */
+           danmaku: true,
         }
     }
 });
