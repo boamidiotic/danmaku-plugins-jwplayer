@@ -1,5 +1,5 @@
 # Danmaku Plugins For JW Player
-[![Secreenshot](https://i.imgur.com/v2y5Ind.png)
+[![Secreenshot](https://i.imgur.com/v2y5Ind.png)](https://fb.me/xnongermx1337/)
 ### Usage
 ```html
 <div id="boamganteng"></div>
