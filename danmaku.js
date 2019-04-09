@@ -29,5 +29,7 @@ jwplayer().registerPlugin('danmaku', '1.0', function(player, config, danmaku){
       console.log("Made With Love <3 - BoamGanteng");
       });
   }
-  player.onReady(setup);
+  if (config.danmaku == true){
+    player.onReady(setup);
+  }
 });
